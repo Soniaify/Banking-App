@@ -61,5 +61,3 @@ The system checks for insufficient funds before transfers.
 
 ## Author
 Sonia
-
-Ask ChatGPT
