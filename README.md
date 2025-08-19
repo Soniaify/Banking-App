@@ -37,7 +37,7 @@ app.py
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/microfinance-bank.git
+   git clone https://github.com/Soniaify/microfinance-bank.git
    cd microfinance-bank
 ## Run the program:
   python app.py
